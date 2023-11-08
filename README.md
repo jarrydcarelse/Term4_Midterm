@@ -166,7 +166,7 @@ We are dedicated to making GlenSpares the ultimate platform for car enthusiasts 
 Mockups
 [Include mockup images or design drafts of your website.]
 
-![image9](1.jpg)
+![1.jpg](1.jpg)
 ![image9](2.jpg)
 ![image9](3.jpg)
 
