@@ -1,6 +1,6 @@
 # GlenSpares - View Spare Parts for Your Car
 
-![Project Logo](project_logo.png)
+
 
 <h5 align="center" style="padding:0;margin:0;">Jarryd Carelse</h5>
 <h5 align="center" style="padding:0;margin:0;">221267</h5>
@@ -166,9 +166,9 @@ We are dedicated to making GlenSpares the ultimate platform for car enthusiasts 
 Mockups
 [Include mockup images or design drafts of your website.]
 
-![image9][1.jpg]
-Mockup 2
-
+![image9](1.jpg)
+![image9](2.jpg)
+![image9](3.jpg)
 
 
 <!-- AUTHORS -->
