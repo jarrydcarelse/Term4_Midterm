@@ -2,8 +2,8 @@
 
 ![Project Logo](project_logo.png)
 
-<h5 align="center" style="padding:0;margin:0;">Your Name</h5>
-<h5 align="center" style="padding:0;margin:0;">Your Student ID</h5>
+<h5 align="center" style="padding:0;margin:0;">Jarryd Carelse</h5>
+<h5 align="center" style="padding:0;margin:0;">221267</h5>
 <h6 align="center">DV200 2023</h6>
 </br>
 <p align="center">
@@ -166,7 +166,7 @@ We are dedicated to making GlenSpares the ultimate platform for car enthusiasts 
 Mockups
 [Include mockup images or design drafts of your website.]
 
-![image9][]
+![image9][1.jpg]
 Mockup 2
 
 
