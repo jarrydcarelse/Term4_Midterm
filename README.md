@@ -167,8 +167,8 @@ Mockups
 [Include mockup images or design drafts of your website.]
 
 ![Alt text](1.jpeg)
-![Alt text](2.jpg)
-![Alt text](3.jpg)
+![Alt text](2.jpeg)
+![Alt text](3.jpeg)
 
 
 <!-- AUTHORS -->
