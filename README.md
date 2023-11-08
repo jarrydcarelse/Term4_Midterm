@@ -168,7 +168,7 @@ Mockups
 
 ![Alt text](1.jpeg)
 ![Alt text](2.jpg)
-![image9](3.jpeg)
+![Alt text](3.jpg)
 
 
 <!-- AUTHORS -->
